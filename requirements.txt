@@ -2,3 +2,4 @@ streamlit
 pandas
 python-jobspy
 time
+jobspy
